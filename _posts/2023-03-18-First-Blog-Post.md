@@ -3,11 +3,6 @@ layout: post
 title: Weight-Loss Statistics 2023 | Surprising Facts & Data
 ---
 
----
-layout: post
-title: Weight-Loss Statistics 2023 
----
-
 Millions of people in the US are trying to lose weight every day. The demand for product, services, and education has made the weight loss industry worth an incredible <span style="color:blue">$3.4 Billion in 2023</span>, in the US alone. And with 80% of adults saying they <span style="color:blue">“could be healthier”</span> more growth can be expected.
 
 # Key Weight Loss Business Insights
